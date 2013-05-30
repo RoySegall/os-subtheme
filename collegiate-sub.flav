@@ -4,6 +4,7 @@ core = 7.x
 
 css[] = css/os.css
 
+module = bartikl2222
 
 os.css[browsers][!IE] = TRUE 
 
