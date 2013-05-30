@@ -1,0 +1,10 @@
+name = gKing subtheme
+description = Sub theme to the gking theme.
+core = 7.x
+
+css[] = css/os.css
+
+module = gking
+
+os.css[browsers][!IE] = TRUE 
+
