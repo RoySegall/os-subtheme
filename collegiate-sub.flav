@@ -1,0 +1,10 @@
+name = Collegiate subtheme
+description = Sub theme to the collegiate os theme.
+core = 7.x
+
+css[] = css/os.css
+
+module = collegiate
+
+os.css[browsers][!IE] = TRUE 
+
