@@ -1,0 +1,5 @@
+body {
+color:#ffffff !important;
+background: url('../images/bodyBg.png') repeat-x scroll 0px -12px #EFEFEF;
+ }  
+ 
