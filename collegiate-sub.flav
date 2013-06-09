@@ -1,7 +1,7 @@
 name = Collegiate subtheme
 description = Sub theme to the collegiate os theme.
 core = 7.x
-
+screenshot = screenshot.png
 css[] = css/os.css
 
 module = collegiate
