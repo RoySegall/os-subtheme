@@ -1,7 +1,7 @@
 name = Clean blue subtheme
 description = Sub theme to the clean blue os theme.
 core = 7.x
-
+screenshot = screenshot.png
 css[] = css/os.css
 
 module = cleanblue
