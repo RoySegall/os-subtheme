@@ -1,7 +1,7 @@
 name = gKing subtheme
 description = Sub theme to the gking theme.
 core = 7.x
-
+screenshot = screenshot.png
 css[] = css/os.css
 
 module = gking
